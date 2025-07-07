@@ -1,0 +1,7 @@
+📌 Task Title:
+Image Recognition using Teachable Machine & TensorFlow
+
+🎯 General Objective:
+To build and deploy a basic image classification model using Google's Teachable Machine,
+then integrate it into a Python program using TensorFlow (Keras format) to classify images into different categories.
+
